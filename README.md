@@ -27,4 +27,4 @@
 
 个人中心（我的理财、我的借贷、银行卡管理、账户安全）
 
-详询 微信1：egvh56ufy7hh ，微信2：A15192572135 ，钉钉：chengxuyuandabo ，QQ：821898835 ，承接商业项目和毕设
+详询 微信1：egvh56ufy7hh ，微信2：dabocode ，钉钉：chengxuyuandabo ，QQ：821898835 ，承接商业项目和毕设
