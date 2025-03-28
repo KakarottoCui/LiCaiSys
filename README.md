@@ -1,7 +1,7 @@
 # LiCaiSys
 基于SpringBoot和Thymelaf的理财系统
 
-演示视频链接：https://live.csdn.net/v/241929
+演示视频链接：https://www.bilibili.com/video/BV1j14y1a7Lq/
 
 用到的技术
 
